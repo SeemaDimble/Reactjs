@@ -42,7 +42,7 @@ import CounterOne from './HooksUseReducer/CounterOne';
 // import ParentComp from './ParentComp';
 export const UserContext=React.createContext()
 export const ChannelContext=React.createContext()
-
+// this is my app component
 function App() {
   return (
     <div className="App">
